@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Core
 pandas==2.2.2
 numpy==1.26.4
@@ -20,4 +21,28 @@ streamlit==1.33.0
 
 # Utilities
 joblib==1.4.0
+=======
+# Core
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.4.2
+xgboost==2.0.3
+imbalanced-learn==0.12.2
+optuna==3.6.1
+
+# Explainability
+shap==0.45.0
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# App
+streamlit==1.33.0
+
+# Utilities
+joblib==1.4.0
+>>>>>>> 2d5be8bd46272991bd3beb02cf17df7efa3a1594
 scipy==1.13.0
