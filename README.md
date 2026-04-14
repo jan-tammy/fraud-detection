@@ -4,6 +4,8 @@ End-to-end fraud detection pipeline on PaySim — featuring statistical EDA,
 cost-sensitive threshold optimization, SHAP explainability, and a Streamlit 
 deployment interface.
 
+Live demo: [Fraud Prediction App](https://jan-tammy-fraud-detection-app.streamlit.app/)
+
 ---
 
 ## Problem Statement
