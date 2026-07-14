@@ -66,8 +66,8 @@ around precision-recall tradeoffs and cost-sensitive decision making.
 
 1. Clone the repository
 2. Install dependencies: 'pip install -r requirements.txt'
-3. Run 'fraud_detection.ipynb' and use Kaggle API keys to access the dataset in-notebook.
-4. Run 'fraud_detection.ipynb top to bottom to train and export model artifacts.
+3. Run 'FraudDetection.ipynb' and use Kaggle API keys to access the dataset in-notebook.
+4. Run 'FraudDetection.ipynb top to bottom to train and export model artifacts.
 5. Launch the app: 'streamlit run app.py'
 
 ---
